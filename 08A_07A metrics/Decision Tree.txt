@@ -1,0 +1,13 @@
+Decision Tree
+
+Accuracy:    	7.44%
+F1:         	6.09%
+Recall:     	7.44%
+
+Confusion Matrix
+Actual      0   1   2   3   4
+Predicted                    
+0          12  48  47  79  76
+2           0  53   0   0   4
+3           0   1  14  15  10
+4           0   2   2   0   0

@@ -1,0 +1,10 @@
+SVM
+
+Accuracy:    	3.31%
+F1:         	0.21%
+Recall:     	3.31%
+
+Confusion Matrix
+Actual      0    1   2   3   4
+Predicted                     
+0          12  104  63  94  90

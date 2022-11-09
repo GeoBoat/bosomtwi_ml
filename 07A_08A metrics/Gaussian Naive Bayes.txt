@@ -1,0 +1,12 @@
+Gaussian Naive Bayes
+
+Accuracy:    	11.22%
+F1:         	3.36%
+Recall:     	11.22%
+
+Confusion Matrix
+Actual       0   2   3   4
+Predicted                 
+1          112   5   0   0
+2          173  47  57  18
+4            0   0   7   0

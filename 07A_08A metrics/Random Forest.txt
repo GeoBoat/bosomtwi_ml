@@ -1,0 +1,13 @@
+Random Forest
+
+Accuracy:    	10.74%
+F1:         	3.97%
+Recall:     	10.74%
+
+Confusion Matrix
+Actual       0   2   3   4
+Predicted                 
+1           97   5   0   0
+2          146  44  51  18
+3            1   1   1   0
+4           41   2  12   0

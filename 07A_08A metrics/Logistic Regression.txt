@@ -1,0 +1,12 @@
+Logistic Regression
+
+Accuracy:    	10.50%
+F1:         	3.09%
+Recall:     	10.50%
+
+Confusion Matrix
+Actual       0   2   3   4
+Predicted                 
+1           60   4   0   0
+2          175  44  64  18
+4           50   4   0   0
